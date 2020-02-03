@@ -1,0 +1,60 @@
+body{
+    background-image:url("Background.png");
+}
+h1{
+    color: #84DCCF;
+    position:absolute;
+    left: 60px;
+    top: 100px;
+    font-size: 300%;
+}
+.PROJECTS{
+    color: #84dcff;
+    position: absolute;
+    left: 100px;
+    top: 250px;
+    font-size: 120%;
+}
+.teams{
+    color:#84DCCF;
+    position: absolute;
+    left: 500px;
+    top: 250px;
+    font-size: 120%;
+}
+.sponsors{
+    color: #84DCCF;
+    position: absolute;
+    left:850px;
+    top: 250px;
+    font-size: 120%;
+}
+p1{
+    color: blanchedalmond;
+    position: absolute;
+    left: 20px;
+    top: 100px;
+    font-size: 80%;
+}
+.image{
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+.git{
+    position: absolute;
+    right: 50px;
+    bottom: 10px;
+}
+.fb{
+    position: absolute;
+    right: 105px;
+    bottom: 10px;
+}
+.arrow{
+    position: absolute;
+    left: 600px;
+    bottom: 50px;
+}
+
+}
